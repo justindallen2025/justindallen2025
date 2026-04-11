@@ -22,6 +22,7 @@ I'm a first-year CS student at the Georgia Institute of Technology with a focus 
 ### 💻 Featured Projects
 
 * **CORE Music Tech:** Engineered a solderless, drop-in digital signal processing (DSP) audio system for electric guitars. Features sub-12ms latency, C++ audio callbacks, and an offline-first control dashboard using HTML/CSS/JS. *(Provisional Patent filed April 2026).*
+* **Catalyst:** A proactive cloud-credit burn tracker for founders. Engineered the "Intimidation Protocol" backend—a localized voice AI microservice built with FastAPI and ElevenLabs.
 
 ### 📫 Let's Connect!
 - [LinkedIn Profile](https://www.linkedin.com/in/justindallen2025)
