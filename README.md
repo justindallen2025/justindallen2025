@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Justin Allen 👋
 
-<!--
-**justindallen2025/justindallen2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science @ Georgia Tech | Incoming SWE Intern @ GTRI | Founder of CORE Music Tech**
 
-Here are some ideas to get you started:
+I'm a first-year CS student at the Georgia Institute of Technology with a focus on Cybersecurity, Privacy, and Information Internetworks. I love exploring how computers interface with the physical world, from embedded computing and audio signal processing to complex networking systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+- 🎒 **Studying:** CS at Georgia Tech (Threads: Info Internetworks & Cybersecurity).
+- 💼 **Incoming SWE Intern:** Joining the Electronic Systems Laboratory (ELSYS) at **GTRI**, building real-world situational awareness tools with C++ and networking protocols.
+- 🎸 **Founder & Researcher:** Leading **CORE Music Tech** via GT's Idea to Prototype (I2P) program. Building a studio-grade digital engine inside electric guitars using ARM Cortex-M7 microcontrollers, C++, and Web Bluetooth API.
+- ⚡ **Recently Built:** An AI-native proactive voice alert microservice using **FastAPI** and **ElevenLabs** at my first hackathon!
+
+### 🛠️ Tech Stack & Tools
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Voice_AI-black?style=for-the-badge)
+
+### 💻 Featured Projects
+
+* **CORE Music Tech:** Engineered a solderless, drop-in digital signal processing (DSP) audio system for electric guitars. Features sub-12ms latency, C++ audio callbacks, and an offline-first control dashboard using HTML/CSS/JS. *(Provisional Patent filed April 2026).*
+
+### 📫 Let's Connect!
+- [LinkedIn Profile](https://www.linkedin.com/in/justindallen2025)
+- [CORE Music Tech](https://www.coremusictech.com/)
