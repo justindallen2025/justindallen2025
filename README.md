@@ -26,4 +26,4 @@ I'm a second year CS student at the Georgia Institute of Technology with a focus
 
 ### 📫 Let's Connect!
 - [LinkedIn Profile](https://www.linkedin.com/in/justindallen2025)
-- [CORE Music Tech](https://www.coremusictech.com/)
+- [Signl Systems](https://www.signltech.com/)
