@@ -1,13 +1,13 @@
 # Hi, I'm Justin Allen 👋
 
-**Computer Science @ Georgia Tech | Incoming SWE Intern @ GTRI | Founder of CORE Music Tech**
+**Computer Science @ Georgia Tech | SWE Intern @ GTRI | Founder of Signl Systems**
 
-I'm a first-year CS student at the Georgia Institute of Technology with a focus on Cybersecurity, Privacy, and Information Internetworks. I love exploring how computers interface with the physical world, from embedded computing and audio signal processing to complex networking systems.
+I'm a second year CS student at the Georgia Institute of Technology with a focus on Cybersecurity, Privacy, and Information Internetworks. I love exploring how computers interface with the physical world, from embedded computing and audio signal processing to complex networking systems.
 
 ### 🚀 What I'm Up To
 - 🎒 **Studying:** CS at Georgia Tech (Threads: Info Internetworks & Cybersecurity).
-- 💼 **Incoming SWE Intern:** Joining the Electronic Systems Laboratory (ELSYS) at **GTRI**, building real-world situational awareness tools with C++ and networking protocols.
-- 🎸 **Founder & Researcher:** Leading **CORE Music Tech** via GT's Idea to Prototype (I2P) program. Building a studio-grade digital engine inside electric guitars using ARM Cortex-M7 microcontrollers, C++, and Web Bluetooth API.
+- 💼 **SWE Intern:** Working at the Electronic Systems Laboratory (ELSYS) at **GTRI**, building real-world situational awareness tools with C++ and networking protocols.
+- 🎸 **Founder & Researcher:** Leading **Signl Systems** via GT's Idea to Prototype (I2P) program. Building a studio-grade digital engine inside electric guitars using ARM Cortex-M7 microcontrollers, C++, and Web Bluetooth API.
 - ⚡ **Recently Built:** An AI-native proactive voice alert microservice using **FastAPI** and **ElevenLabs** at my first hackathon!
 
 ### 🛠️ Tech Stack & Tools
@@ -21,7 +21,7 @@ I'm a first-year CS student at the Georgia Institute of Technology with a focus 
 
 ### 💻 Featured Projects
 
-* **CORE Music Tech:** Engineered a solderless, drop-in digital signal processing (DSP) audio system for electric guitars. Features sub-12ms latency, C++ audio callbacks, and an offline-first control dashboard using HTML/CSS/JS. *(Provisional Patent filed April 2026).*
+* **Signl Systems:** Engineered a solderless, drop-in digital signal processing (DSP) audio system for electric guitars. Features sub-12ms latency, C++ audio callbacks, and an offline-first control dashboard using HTML/CSS/JS. *(Provisional Patent filed April 2026).*
 * **Catalyst:** A proactive cloud-credit burn tracker for founders. Engineered the "Intimidation Protocol" backend—a localized voice AI microservice built with FastAPI and ElevenLabs.
 
 ### 📫 Let's Connect!
